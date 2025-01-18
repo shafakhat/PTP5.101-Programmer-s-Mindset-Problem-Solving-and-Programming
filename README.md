@@ -6,10 +6,12 @@
 ****Learning Outcomes:****
  - Understand problem abstraction and decomposition.
  - Learn to break down complex problems into manageable steps.
+
 ****Content:****
 - Problem abstraction: Identifying key components of a problem.
 - Decomposition: Breaking a problem into smaller, manageable parts.
 - Introduction to pseudocode and flowcharts.
+
 ****Activities:****
 - Practice problem-solving through abstraction exercises.
 - Writing pseudocode for simple, broken-down problems.
@@ -50,17 +52,17 @@
 - Scratch exercises: Creating modular, function-based projects.
 
 # B.TECH I | SEMESTER II 
-****Module 5: Introduction to the Programming Process (Java)
-****Learning Outcomes:
+****Module 5: Introduction to the Programming Process (Java)****
+****Learning Outcomes:****
 - Understand the edit-compile-run cycle.
 - Learn how Java programming languages work, with a focus on compilation and interpretation.
-****Content:
+****Content:****
 1.	Edit-Compile-Run Cycle:
 - Writing Java code, compiling it into bytecode using javac, and running it with the JVM.
 2.	Compilers and Interpreters:
 - Understanding how Java is compiled and run across different platforms.
 - Difference between compiled and interpreted languages.
-****Activities:
+****Activities:****
 - Writing and running simple Java programs.
 
 ****Module 6: Basic OOP Concepts in Java (Minimal Programming)****
